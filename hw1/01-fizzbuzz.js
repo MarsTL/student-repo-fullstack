@@ -16,11 +16,11 @@ const fizzbuzz = function fizzbuzz(end){
     result = ""
     if (i % 3 === 0) result = "fizz";
     if (i % 5 === 0) result = "buzz";
+    if (i % 3 === 0 && i % 5 === 0) result = "fizzbuzz";
     if (result === "") result = String(i);
     console.log(result);
   }
 };
-
 fizzbuzz(100);
 
 // 1
