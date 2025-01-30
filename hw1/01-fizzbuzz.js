@@ -11,15 +11,16 @@ Use console.log() to write the proper output to the command line.
 //done with partner
 
 const fizzbuzz = function fizzbuzz(end){
+  console.log("This is the output: ");
   for (let i = 1; i < end +1; i++){
     result = ""
     if (i % 3 === 0) result = "fizz";
     if (i % 5 === 0) result = "buzz";
+    if (i % 3 === 0 && i % 5 === 0) result = "fizzbuzz";
     if (result === "") result = String(i);
     console.log(result);
   }
 };
-
 fizzbuzz(100);
 
 // 1
