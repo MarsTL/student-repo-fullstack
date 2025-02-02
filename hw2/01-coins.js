@@ -1,5 +1,5 @@
 /** Exercise 01 - Coins **/
-
+//testing
 // Add your function here 
 function calculateChange(amount) {
   if (amount > 100 || amount < 0) {
