@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     Time to filter the data! In order to be flexible
     we filter users using a number of criteria and
     return only those matching all of the criteria.

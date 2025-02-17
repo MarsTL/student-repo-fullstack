@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     Filtering was completely removed from the project.
     It turned out that this feature was just not needed
     for the end-user and we spent a lot of time just because

@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     All 2 users liked the idea of the community. We should go
     forward and introduce some order. We are in Germany after all.
     Let's add a couple of admins.

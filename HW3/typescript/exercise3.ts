@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     Since we already have some of the additional
     information about our users, it's a good idea
     to output it in a nice way.
