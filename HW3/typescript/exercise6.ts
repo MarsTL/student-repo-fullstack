@@ -5,7 +5,6 @@ interface User {
   age: number;
   occupation: string;
 }
-
 interface Admin {
   type: 'admin';
   name: string;

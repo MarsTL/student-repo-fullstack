@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     Project grew and we ended up in a situation with
     some users starting to have more influence.
     Therefore, we decided to create a new person type

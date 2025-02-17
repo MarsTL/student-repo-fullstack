@@ -1,7 +1,6 @@
 /*
 
 Intro:
-
     As we introduced "type" to both User and Admin
     it's now easier to distinguish between them.
     Once object type checking logic was extracted

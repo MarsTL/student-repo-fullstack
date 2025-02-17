@@ -33,7 +33,7 @@ server.listen(3000, () => {
   console.log('listening on *:3000');
 });
 
-// This will emit the event to all connected sockets
+// This will emit the event to all connec
 io.emit('some event', { someProperty: 'some value', otherProperty: 'other value' }); 
 
 
